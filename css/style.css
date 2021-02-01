@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    background-color:  #34495e;
+    display:flex ;
+    align-items:center;
+    justify-content:center;
+    background-image:url(../image/background.jpg);
+    background-size: cover;
+}
+
+
+.main-content{
+    text-align:center;
+    box-shadow: 0 0 10px #000007;
+}
+
+.top-section{
+    background-color:#575fcf;
+    padding: 0 50px;
+    color:#ecf0f1;
+}
+
+.top-section img{
+    padding: 5px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.top-section p{
+    margin:5px 0 5px 0;
+}
+
+.top-section .name{
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.top-section .email .phone {
+    font-size: 18px;
+}
+
+.middle-section{
+    background-color: white;
+}
