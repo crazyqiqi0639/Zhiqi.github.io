@@ -9,14 +9,15 @@ body{
 }
 
 
-.main-content{
+.main-content-person{
     text-align:center;
     box-shadow: 0 0 10px #000007;
+    justify-content:left;
 }
 
 .top-section{
     background-color:#575fcf;
-    padding: 0 50px;
+    padding: 150 50px;
     color:#ecf0f1;
 }
 
@@ -42,3 +43,23 @@ body{
 .middle-section{
     background-color: white;
 }
+
+
+
+
+
+
+
+.main-content{
+    box-shadow: 0 0 20px black;
+    padding: 70px;
+    background-color: white;
+    justify-content:right;
+}
+.main-content{
+    margin:0 20px;
+    line-height: 12px;
+    font-family: 'Times New Roman';
+}
+
+
